@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "32685844902",
+    "project_id": "strangerscalling",
+    "storage_bucket": "strangerscalling.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32685844902:android:9c971186909e27c35fc767",
+        "android_client_info": {
+          "package_name": "com.example.youtubeopencv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32685844902-mc0hepcvfb4418gl2puvvp0fki0dptmp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.youtubeopencv",
+            "certificate_hash": "c189e9867cef8a34fb70dd1752a6e36b4ac9d2fa"
+          }
+        },
+        {
+          "client_id": "32685844902-v1crl4fo5idbpc6c0vl997bhi7hu1uc6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQYmOvKdGeQxXfcDb1rYuAnWNzlWBfkU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32685844902-v1crl4fo5idbpc6c0vl997bhi7hu1uc6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
